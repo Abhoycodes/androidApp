@@ -4,7 +4,8 @@
 **Project Name:** Android Quiz App
 
 **Description:**
-This Android Quiz App is a simple and interactive application designed for Android devices running on Marshmallow (Android 6.0) and later versions. It allows users to test their knowledge through a variety of quizzes on different topics. With a user-friendly interface and engaging features, this app provides an enjoyable and educational experience.
+This Android Quiz App is a simple and interactive application designed for Android devices running on Marshmallow (Android 6.0) and later versions. It allows users to test their knowledge through a variety of quizzes on different topics. With a user-friendly interface and engaging features, this app provides an enjoyable and educational experience.<br><br>
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,androidstudio,figma&theme=light)](https://abhoy.it.com)
 
 **Tech Stack:**
 - **Java:** The primary programming language used for developing the app.
